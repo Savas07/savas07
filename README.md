@@ -19,8 +19,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 📫 How to reach me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- **Email:** [your-email@example.com](mailto:savas.alt@outlook.com)
 
 ## 🌱 Currently Learning
 
@@ -31,7 +30,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 - Web development
 - Software engineering principles
-- Open-source contributions
 
 ## ⚡ Fun fact
 
