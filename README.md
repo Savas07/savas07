@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 📫 How to reach me
 
-- **Email:** [your-email@example.com](mailto:savas.alt@outlook.com)
+- **Email:** [savas.alt@outlook.com](mailto:savas.alt@outlook.com)
 
 ## 🌱 Currently Learning
 
